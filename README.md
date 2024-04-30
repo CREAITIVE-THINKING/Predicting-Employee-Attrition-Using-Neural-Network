@@ -39,4 +39,4 @@ This Jupyter notebook tackles a machine learning challenge involving employee at
 
 The notebook demonstrates a comprehensive approach to solving a multi-output classification problem using neural networks, showcasing skills in data preprocessing, model architecture design, and critical evaluation of model performance.
 
-ChatGPT used to debug ansd assist in coding.
+ChatGPT used to debug and assist in coding.
