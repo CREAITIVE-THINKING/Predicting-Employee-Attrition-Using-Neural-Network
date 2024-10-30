@@ -1,4 +1,4 @@
-# Notebook Overview: `attrition.ipynb`
+# Notebook Overview: 
 
 This Jupyter notebook tackles a machine learning challenge involving employee attrition and department classification using neural networks. It is structured into clear sections with specific objectives and methods outlined at each step.
 
